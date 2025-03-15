@@ -1,0 +1,6 @@
+pyside6
+ultralytics
+onnx
+onnxslim
+onnxruntime
+# opencv-python
